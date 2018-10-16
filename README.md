@@ -57,4 +57,4 @@ Open sourced under the MIT license.
 
 ## Render 渲染
 
-![](https://github.com/acme-top/jquery.doc.toc.js/edit/master/demo.png)
+![](https://raw.githubusercontent.com/acme-top/jquery.doc.toc.js/master/demo.png)
