@@ -48,8 +48,8 @@ jquery.doc.toc.js是一款简单、轻量的TOC插件，是在jquery.titleNav.js
 
 ## License 许可证
 
-<a href="https://github.com/acme-top/jquery.doc.toc.js/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Apache%20V2.0-green.svg?style=flat-square"/></a>
+<a href="https://github.com/acme-top/jquery.doc.toc.js/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT License-orange.svg?style=flat-square"/></a>
 
-Open sourced under the Apache V2.0 license.
+Open sourced under the MIT license.
 
-根据 Apache V2.0 许可证开源。
+根据 MIT 许可证开源。
