@@ -4,7 +4,6 @@
 ## Contents 目录
 
 - [Introduction 介绍](#introduction-介绍)
-- [Demo 演示](#demo-演示)
 - [Docs 文档](#docs-文档)
 - [License 许可证](#license-许可证)
 - [Render 渲染](#render-渲染)
@@ -12,10 +11,6 @@
 ## Introduction 介绍
 
 jquery.doc.toc.js是一款简单、轻量的TOC插件，是在jquery.titleNav.js的基础上进行了修改，主要增加了动态获取TOC距离顶部和左侧或者右侧的距离的功能。
-
-## Demo 演示
-
-[行风'S Blog](https://acme.top/2018/10/03/typesetting-demo/)
 
 ## Docs 文档
 
